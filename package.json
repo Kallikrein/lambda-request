@@ -1,6 +1,6 @@
 {
   "name": "lambda-request",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AWS lambda function converting event object fields to a request. To be used with a compatible avl template.",
   "main": "index.js",
   "scripts": {

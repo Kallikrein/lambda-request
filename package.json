@@ -1,0 +1,19 @@
+{
+  "name": "lambda-request",
+  "version": "0.0.0",
+  "description": "AWS lambda function converting event object fields to a request. To be used with a compatible avl template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kallikrein/lambda-request.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kallikrein/lambda-request/issues"
+  },
+  "homepage": "https://github.com/Kallikrein/lambda-request#readme"
+}

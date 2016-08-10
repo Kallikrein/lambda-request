@@ -19,7 +19,7 @@ function req (event, cb) {
 			_req[key] = event[key];
 		}
 	});
-	return cb(null, req);
+	return cb(null, _req);
 }
 
 module.exports = req;
